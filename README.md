@@ -1,7 +1,9 @@
 ## Hi there 👋
-My Name is Ram Dhanani
 
-- 🌱 I’m currently learning Cloud Engineering/Security
+My Name is Ram Dhanani
+I currently work as a Information Security Analyst
+
+🌱 I’m currently learning Cloud Engineering/Security
 
 <!--
 **rdhanani7/rdhanani7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
